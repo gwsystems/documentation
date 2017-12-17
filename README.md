@@ -1,3 +1,9 @@
+# Github organization conventions
+
+All researchers part of this organization have the ability to transfer repos in, and make modifications to the different repos.
+To avoid ambient authority for everything, we're using `github` "protected branches" to ensure that specific branches of different repos can be modified (`push`ed to) *only* by those who are running the project.
+Please read the [details](https://github.com/gwsystems/documentation/blob/master/github_conventions.md) of this convention.
+
 # Overview of building and using the repos in this org
 
 ## Composite standalone
