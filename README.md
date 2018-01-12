@@ -14,3 +14,5 @@ This project entails running [rumpkernels](http://rumpkernel.org/) on the compos
 ## Composite + CFE
 [cFE2cos setup](https://github.com/gw-shc/cFE2cos)
 Note that these steps create an independent installation of composite in the project's `composite` submodule.
+## Composite Coding Style
+For the Composite style guide see [here](https://github.com/gwsystems/composite/blob/ppos/doc/style_guide/composite_coding_style.pdf)
